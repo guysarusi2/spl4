@@ -1,7 +1,7 @@
-import _sqlite3
+import sqlite3
 
 
-
+sqlite3.connect('database.db')
 
 
 
